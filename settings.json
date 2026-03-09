@@ -8,6 +8,7 @@
   "server": {
     "ip": "TsSrvrHatesHacker.aternos.me",
     "port": 62209,
+    "dynIP": "marmoset.aternos.host:62209",
     "version": "1.21.11"
   },
   "position": {
